@@ -1,3 +1,0 @@
-fdk
-requests
-py_zipkin
